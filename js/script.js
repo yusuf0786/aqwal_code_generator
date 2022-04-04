@@ -1,5 +1,6 @@
 // targetting the elements
 let aqwal = document.querySelector("#aqwal")
+let copy_btn = document.querySelector("input[type='submit']")
 
 /* in the function below, 
 targetting the values of the targetted elements 
