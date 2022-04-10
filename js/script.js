@@ -11,7 +11,7 @@ function myfunction() {
   let aqwal_value = aqwal.value
 
   let generate_code = `
-  <li><span>*</span><span><q>${aqwal_value}</q></span></li>`
+  <li><span>&#8226;</span><span><q>${aqwal_value}</q></span></li>`
 
 let mycode = document.querySelector("#mycode")
 mycode.value = generate_code
